@@ -1,0 +1,19 @@
+# Secrets - never commit
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local results and OS/editor files
+data/eval_results.csv
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
