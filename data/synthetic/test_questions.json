@@ -1,0 +1,702 @@
+[
+ {
+  "id": "patient_01_0",
+  "patient": "patient_01",
+  "question": "What dose of metformin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "1000"
+ },
+ {
+  "id": "patient_01_1",
+  "patient": "patient_01",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "8.0"
+ },
+ {
+  "id": "patient_01_2",
+  "patient": "patient_01",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "cellulitis"
+ },
+ {
+  "id": "patient_01_3",
+  "patient": "patient_01",
+  "question": "Has the patient received the influenza vaccine this year?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_01_4",
+  "patient": "patient_01",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_02_5",
+  "patient": "patient_02",
+  "question": "What dose of lisinopril is the patient discharged on?",
+  "type": "answerable",
+  "expected": "40"
+ },
+ {
+  "id": "patient_02_6",
+  "patient": "patient_02",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "8.7"
+ },
+ {
+  "id": "patient_02_7",
+  "patient": "patient_02",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "pneumonia"
+ },
+ {
+  "id": "patient_02_8",
+  "patient": "patient_02",
+  "question": "Has the patient received the influenza vaccine this year?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_02_9",
+  "patient": "patient_02",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_03_10",
+  "patient": "patient_03",
+  "question": "What dose of atorvastatin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "20"
+ },
+ {
+  "id": "patient_03_11",
+  "patient": "patient_03",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "9.6"
+ },
+ {
+  "id": "patient_03_12",
+  "patient": "patient_03",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "urinary"
+ },
+ {
+  "id": "patient_03_13",
+  "patient": "patient_03",
+  "question": "What is the patient's smoking status?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_03_14",
+  "patient": "patient_03",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_04_15",
+  "patient": "patient_04",
+  "question": "What dose of atorvastatin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "40"
+ },
+ {
+  "id": "patient_04_16",
+  "patient": "patient_04",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "8.8"
+ },
+ {
+  "id": "patient_04_17",
+  "patient": "patient_04",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "urinary"
+ },
+ {
+  "id": "patient_04_18",
+  "patient": "patient_04",
+  "question": "Does the patient have a family history of cancer?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_04_19",
+  "patient": "patient_04",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_05_20",
+  "patient": "patient_05",
+  "question": "What dose of metformin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "850"
+ },
+ {
+  "id": "patient_05_21",
+  "patient": "patient_05",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "9.5"
+ },
+ {
+  "id": "patient_05_22",
+  "patient": "patient_05",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "cellulitis"
+ },
+ {
+  "id": "patient_05_23",
+  "patient": "patient_05",
+  "question": "Does the patient have a family history of cancer?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_05_24",
+  "patient": "patient_05",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_06_25",
+  "patient": "patient_06",
+  "question": "What dose of lisinopril is the patient discharged on?",
+  "type": "answerable",
+  "expected": "10"
+ },
+ {
+  "id": "patient_06_26",
+  "patient": "patient_06",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "8.4"
+ },
+ {
+  "id": "patient_06_27",
+  "patient": "patient_06",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "heart failure"
+ },
+ {
+  "id": "patient_06_28",
+  "patient": "patient_06",
+  "question": "Has the patient received the influenza vaccine this year?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_06_29",
+  "patient": "patient_06",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_07_30",
+  "patient": "patient_07",
+  "question": "What dose of metformin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "500"
+ },
+ {
+  "id": "patient_07_31",
+  "patient": "patient_07",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "8.3"
+ },
+ {
+  "id": "patient_07_32",
+  "patient": "patient_07",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "cellulitis"
+ },
+ {
+  "id": "patient_07_33",
+  "patient": "patient_07",
+  "question": "What is the patient's occupation?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_07_34",
+  "patient": "patient_07",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_08_35",
+  "patient": "patient_08",
+  "question": "What dose of levothyroxine is the patient discharged on?",
+  "type": "answerable",
+  "expected": "125"
+ },
+ {
+  "id": "patient_08_36",
+  "patient": "patient_08",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "7.7"
+ },
+ {
+  "id": "patient_08_37",
+  "patient": "patient_08",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "pneumonia"
+ },
+ {
+  "id": "patient_08_38",
+  "patient": "patient_08",
+  "question": "What is the patient's occupation?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_08_39",
+  "patient": "patient_08",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_09_40",
+  "patient": "patient_09",
+  "question": "What dose of atorvastatin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "40"
+ },
+ {
+  "id": "patient_09_41",
+  "patient": "patient_09",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "7.4"
+ },
+ {
+  "id": "patient_09_42",
+  "patient": "patient_09",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "heart failure"
+ },
+ {
+  "id": "patient_09_43",
+  "patient": "patient_09",
+  "question": "How much alcohol does the patient drink per week?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_09_44",
+  "patient": "patient_09",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_10_45",
+  "patient": "patient_10",
+  "question": "What dose of atorvastatin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "20"
+ },
+ {
+  "id": "patient_10_46",
+  "patient": "patient_10",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "7.4"
+ },
+ {
+  "id": "patient_10_47",
+  "patient": "patient_10",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "urinary"
+ },
+ {
+  "id": "patient_10_48",
+  "patient": "patient_10",
+  "question": "What is the patient's occupation?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_10_49",
+  "patient": "patient_10",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_11_50",
+  "patient": "patient_11",
+  "question": "What dose of levothyroxine is the patient discharged on?",
+  "type": "answerable",
+  "expected": "50"
+ },
+ {
+  "id": "patient_11_51",
+  "patient": "patient_11",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "7.2"
+ },
+ {
+  "id": "patient_11_52",
+  "patient": "patient_11",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "cellulitis"
+ },
+ {
+  "id": "patient_11_53",
+  "patient": "patient_11",
+  "question": "Does the patient have a family history of cancer?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_11_54",
+  "patient": "patient_11",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_12_55",
+  "patient": "patient_12",
+  "question": "What dose of metformin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "500"
+ },
+ {
+  "id": "patient_12_56",
+  "patient": "patient_12",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "8.5"
+ },
+ {
+  "id": "patient_12_57",
+  "patient": "patient_12",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "heart failure"
+ },
+ {
+  "id": "patient_12_58",
+  "patient": "patient_12",
+  "question": "Does the patient have a family history of cancer?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_12_59",
+  "patient": "patient_12",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_13_60",
+  "patient": "patient_13",
+  "question": "What dose of lisinopril is the patient discharged on?",
+  "type": "answerable",
+  "expected": "40"
+ },
+ {
+  "id": "patient_13_61",
+  "patient": "patient_13",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "9.4"
+ },
+ {
+  "id": "patient_13_62",
+  "patient": "patient_13",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "heart failure"
+ },
+ {
+  "id": "patient_13_63",
+  "patient": "patient_13",
+  "question": "How much alcohol does the patient drink per week?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_13_64",
+  "patient": "patient_13",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_14_65",
+  "patient": "patient_14",
+  "question": "What dose of levothyroxine is the patient discharged on?",
+  "type": "answerable",
+  "expected": "125"
+ },
+ {
+  "id": "patient_14_66",
+  "patient": "patient_14",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "9.3"
+ },
+ {
+  "id": "patient_14_67",
+  "patient": "patient_14",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "urinary"
+ },
+ {
+  "id": "patient_14_68",
+  "patient": "patient_14",
+  "question": "What is the patient's smoking status?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_14_69",
+  "patient": "patient_14",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_15_70",
+  "patient": "patient_15",
+  "question": "What dose of atorvastatin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "80"
+ },
+ {
+  "id": "patient_15_71",
+  "patient": "patient_15",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "9.5"
+ },
+ {
+  "id": "patient_15_72",
+  "patient": "patient_15",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "heart failure"
+ },
+ {
+  "id": "patient_15_73",
+  "patient": "patient_15",
+  "question": "How much alcohol does the patient drink per week?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_15_74",
+  "patient": "patient_15",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_16_75",
+  "patient": "patient_16",
+  "question": "What dose of levothyroxine is the patient discharged on?",
+  "type": "answerable",
+  "expected": "100"
+ },
+ {
+  "id": "patient_16_76",
+  "patient": "patient_16",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "7.0"
+ },
+ {
+  "id": "patient_16_77",
+  "patient": "patient_16",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "pneumonia"
+ },
+ {
+  "id": "patient_16_78",
+  "patient": "patient_16",
+  "question": "What is the patient's smoking status?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_16_79",
+  "patient": "patient_16",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_17_80",
+  "patient": "patient_17",
+  "question": "What dose of levothyroxine is the patient discharged on?",
+  "type": "answerable",
+  "expected": "100"
+ },
+ {
+  "id": "patient_17_81",
+  "patient": "patient_17",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "9.0"
+ },
+ {
+  "id": "patient_17_82",
+  "patient": "patient_17",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "heart failure"
+ },
+ {
+  "id": "patient_17_83",
+  "patient": "patient_17",
+  "question": "What is the patient's occupation?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_17_84",
+  "patient": "patient_17",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_18_85",
+  "patient": "patient_18",
+  "question": "What dose of atorvastatin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "40"
+ },
+ {
+  "id": "patient_18_86",
+  "patient": "patient_18",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "7.7"
+ },
+ {
+  "id": "patient_18_87",
+  "patient": "patient_18",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "heart failure"
+ },
+ {
+  "id": "patient_18_88",
+  "patient": "patient_18",
+  "question": "How much alcohol does the patient drink per week?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_18_89",
+  "patient": "patient_18",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_19_90",
+  "patient": "patient_19",
+  "question": "What dose of lisinopril is the patient discharged on?",
+  "type": "answerable",
+  "expected": "10"
+ },
+ {
+  "id": "patient_19_91",
+  "patient": "patient_19",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "8.1"
+ },
+ {
+  "id": "patient_19_92",
+  "patient": "patient_19",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "heart failure"
+ },
+ {
+  "id": "patient_19_93",
+  "patient": "patient_19",
+  "question": "Does the patient have a family history of cancer?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_19_94",
+  "patient": "patient_19",
+  "question": "Does the patient have any drug allergies?",
+  "type": "conflicting",
+  "expected": ""
+ },
+ {
+  "id": "patient_20_95",
+  "patient": "patient_20",
+  "question": "What dose of metformin is the patient discharged on?",
+  "type": "answerable",
+  "expected": "850"
+ },
+ {
+  "id": "patient_20_96",
+  "patient": "patient_20",
+  "question": "What was the patient's HbA1c on the lab report?",
+  "type": "answerable",
+  "expected": "10.4"
+ },
+ {
+  "id": "patient_20_97",
+  "patient": "patient_20",
+  "question": "Why was the patient admitted to hospital?",
+  "type": "answerable",
+  "expected": "cellulitis"
+ },
+ {
+  "id": "patient_20_98",
+  "patient": "patient_20",
+  "question": "What is the patient's smoking status?",
+  "type": "unanswerable",
+  "expected": ""
+ },
+ {
+  "id": "patient_20_99",
+  "patient": "patient_20",
+  "question": "Is the patient currently taking aspirin?",
+  "type": "conflicting",
+  "expected": ""
+ }
+]

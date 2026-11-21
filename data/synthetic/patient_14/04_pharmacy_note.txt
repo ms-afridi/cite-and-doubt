@@ -1,0 +1,4 @@
+PHARMACY MEDICATION RECONCILIATION
+Home medication list verified with the patient's pharmacy.
+Aspirin 81 mg was discontinued on day 2 because of bleeding risk.
+Nursing staff reported the patient slept well and had no falls. Wound and skin checks were performed with no new concerns noted. Vital signs were checked every four hours and remained stable overnight.

@@ -1,0 +1,4 @@
+PHARMACY MEDICATION RECONCILIATION
+Home medication list verified with the patient's pharmacy.
+Allergy reconciliation: patient reports a penicillin allergy (rash).
+Diet: regular, low salt. Fluids encouraged. Vital signs were checked every four hours and remained stable overnight. Bed rails were up and the call bell was within reach.

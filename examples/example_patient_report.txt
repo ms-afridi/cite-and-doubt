@@ -1,0 +1,17 @@
+DISCHARGE SUMMARY (EXAMPLE - FICTIONAL PATIENT)
+Patient: Jane Example, 67-year-old female.
+Admitted: 3 March for community-acquired pneumonia (cough, fever, shortness of breath).
+Past history: type 2 diabetes, hypertension.
+Allergies: No known drug allergies.
+
+MEDICATIONS AT DISCHARGE
+Metformin 500 mg twice daily; lisinopril 10 mg once daily.
+
+LAB RESULTS
+HbA1c: 7.8 %. Creatinine: 1.0 mg/dL. White cell count: 14 x10^9/L on admission, 8 at discharge.
+
+PHARMACY NOTE
+Allergy reconciliation: patient reports a penicillin allergy (rash).
+
+FOLLOW-UP
+Review with primary care in two weeks. Repeat chest X-ray in six weeks.

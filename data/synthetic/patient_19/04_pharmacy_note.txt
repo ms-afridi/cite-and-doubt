@@ -1,0 +1,4 @@
+PHARMACY MEDICATION RECONCILIATION
+Home medication list verified with the patient's pharmacy.
+Allergy reconciliation: patient reports a penicillin allergy (rash).
+Bed rails were up and the call bell was within reach. Wound and skin checks were performed with no new concerns noted. The patient was encouraged to walk in the corridor twice daily with assistance.
